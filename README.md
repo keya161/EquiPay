@@ -38,7 +38,7 @@ gcc Splitwise.c split_func_def.c -o GroupBudgetManager
 
 ## Usage
 
-1. Run the compiled program.
+1. Run the compiled program. 
 2. Follow the menu prompts to perform various operations such as adding expenses, adding users, and displaying reports.
 3. Utilize the functionality to manage group expenses efficiently.
 
